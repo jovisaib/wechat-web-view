@@ -1,5 +1,6 @@
 <view class="page-body">
   <view class="page-section page-section-gap">
+  
     <web-view src="https://sso.nayarsystems.com/#/?platform=net4machines"></web-view>
   </view>
 </view>
